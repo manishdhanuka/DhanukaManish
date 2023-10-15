@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manish Dhanuka.
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning react js.
-- 💞️ I’m looking to collaborate on react js projects.
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning next js.
+- 💞️ I’m looking to collaborate on next js projects.
 - 📫 Reach me at mdhanuka1993@gmail.com
